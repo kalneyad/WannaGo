@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "284159409923",
+    "project_id": "hyrule-app",
+    "storage_bucket": "hyrule-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284159409923:android:cec7139d4e6f199f87b336",
+        "android_client_info": {
+          "package_name": "cit.mapmarker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O6ESe-IT28Qi1qWwkhgogS9d1QswgKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284159409923:android:64c5e85c80fb9f0487b336",
+        "android_client_info": {
+          "package_name": "cit.wannago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O6ESe-IT28Qi1qWwkhgogS9d1QswgKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284159409923:android:ae0147cd3de70b5687b336",
+        "android_client_info": {
+          "package_name": "com.example.hyrule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O6ESe-IT28Qi1qWwkhgogS9d1QswgKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
